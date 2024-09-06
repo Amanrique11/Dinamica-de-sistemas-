@@ -19,10 +19,10 @@ $$f(t)$$
 Tambien es necesario cuantificar cuanto cambia las variables de interes con respecto al tiempo.
 
 $$\frac{df(t)}{dt}$$
-## 6. Ecuciaciones diferenciales.
+## 6. Ecuaciones diferenciales.
 Una ecucion diferencial es una ecuacion que involucra a las derivadas de una funcion con la propia funcion y/o las variables de las que depende.
 >🔑 *Derivada:* Es el resultado de un limite y representa la pendiente de la recta tangente a la grafica de la funcion en un punto.
-## 7. Tipos de ecucaciones diferenciales
-### 7.1 Ecucion diferencial lineal
+## 7. Tipos de ecuaciones diferenciales
+### 7.1 Ecuacion diferencial lineal
 Una ecuacion diferencial es lineal cuando su soluciones pueden obtenerse a partir de combinaciones lineales de otras soluciones.
-
+💡**Ejemplo 1:** $y''+y'-2y=0$
