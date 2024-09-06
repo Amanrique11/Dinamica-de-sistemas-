@@ -7,3 +7,5 @@ Figura 1: Sistema.
 Un sistema dinamico es un sistema que la salida depende de una entrada que ya paso.
 ![descarga](https://github.com/user-attachments/assets/488cec1a-7ca9-4ba1-a56b-8509b3ef9aeb)
 Figura 2: Sistema Dinamico.
+## 3. Definicones
+>🔑*Planta*: Es el punot fisico que perimite que se lleve a cabo un proceso, ademas, pueden ser representado a traves de uno o varios sistemas.
