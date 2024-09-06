@@ -10,4 +10,5 @@ Figura 2: Sistema Dinamico.
 ## 3. Planta
 Es el punto fisico que perimite que se lleve a cabo un proceso, ademas, pueden ser representado a traves de uno o varios sistemas.
 ## 4. Proceso
-Es la secuencia de pasos que permite el desarrollo de un sistema dinamico, en el area de control se una como sinonimo de planta.(Aquen estrictamente no lo es)
+Es la secuencia de pasos que permite el desarrollo de un sistema dinamico, en el area de control se una como sinonimo de planta.(Aunque estrictamente no lo es)
+## 5. Modelo Dinamico
