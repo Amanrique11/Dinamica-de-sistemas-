@@ -24,5 +24,5 @@ Una ecucion diferencial es una ecuacion que involucra a las derivadas de una fun
 >🔑 *Derivada:* Es el resultado de un limite y representa la pendiente de la recta tangente a la grafica de la funcion en un punto.
 ## 7. Tipos de ecucaciones diferenciales
 ### 7.1 Ecucion diferencial lineal
-
+Una ecuacion diferencial es lineal cuando su soluciones pueden obtenerse a partir de combinaciones lineales de otras soluciones.
 
