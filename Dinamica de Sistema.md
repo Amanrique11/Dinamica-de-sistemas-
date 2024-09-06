@@ -22,4 +22,7 @@ $$\frac{df(t)}{dt}$$
 ## 6. Ecuciaciones diferenciales.
 Una ecucion diferencial es una ecuacion que involucra a las derivadas de una funcion con la propia funcion y/o las variables de las que depende.
 >🔑 *Derivada:* Es el resultado de un limite y representa la pendiente de la recta tangente a la grafica de la funcion en un punto.
+## 7. Tipos de ecucaciones diferenciales
+### 7.1 Ecucion diferencial lineal
+
 
