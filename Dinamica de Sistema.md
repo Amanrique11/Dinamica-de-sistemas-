@@ -13,4 +13,9 @@ Es el punto fisico que perimite que se lleve a cabo un proceso, ademas, pueden s
 Es la secuencia de pasos que permite el desarrollo de un sistema dinamico, en el area de control se una como sinonimo de planta.(Aunque estrictamente no lo es)
 ## 5. Modelo Dinamico
 En control interesa obtener un modelo matematico que relacione las variables de interes con el tiempo.
+
 $$f(t)$$
+
+Tambien es necesario cuantificar cuanto cambia las variables de interes con respecto al tiempo.
+
+$$\frac{df(t)}{dt}$$
