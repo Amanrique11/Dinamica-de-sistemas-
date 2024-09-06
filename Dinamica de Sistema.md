@@ -34,3 +34,4 @@ Al aplicar las leyes fisicas a un modelo matematico de un sistema se debe tener 
 ## 9. Referencias
 1.https://www.google.com/imgres?q=sistema%20salida%20y%20entrada&imgurl=https%3A%2F%2Fsistemasumma.com%2Fwp-content%2Fuploads%2F2011%2F11%2Fenfoque-sistemico-1.png&imgrefurl=https%3A%2F%2Fsistemasumma.com%2F2011%2F11%2F03%2Fsistemas-y-teoria-general-de-sistemas%2F&docid=Y06TmVQa2AV9yM&tbnid=ror9eE8zZ656bM&vet=12ahUKEwjft7uy7K6IAxWLQjABHWWNAq0QM3oECBkQAA..i&w=1000&h=667&hcb=2&ved=2ahUKEwjft7uy7K6IAxWLQjABHWWNAq0QM3oECBkQAA
 2.https://edem.eu/ecuaciones-diferenciales-la-herramienta-que-todo-ingeniero-debe-poseer/
+
