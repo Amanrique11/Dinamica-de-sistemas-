@@ -1,11 +1,11 @@
 # Dinamica de sistemas
 ##  1. ¿Que es un sistema?
-Un sistema surgen combinaciones que actuan conjuntamente para alcanzar un objetivo. La combinacion de componentes se pueden representar por medio de reglas y/o principios que relacionan salidas con las entradas.
+En sistema surgen combinaciones que actuan conjuntamente para alcanzar un objetivo. La combinacion de componentes se pueden representar por medio de reglas y/o principios que relacionan salidas con las entradas.
 ![Figura de Sistema ](https://github.com/user-attachments/assets/f010e959-f77a-43a0-b8ee-59d92361eef4)
 Figura 1: Sistema.
 ## 2. ¿Que es un sistema dinamico?
 Un sistema dinamico es un sistema que la salida depende de una entrada que ya paso.
-![descarga](https://github.com/user-attachments/assets/488cec1a-7ca9-4ba1-a56b-8509b3ef9aeb)
+![Sistema dinamico](https://github.com/user-attachments/assets/488cec1a-7ca9-4ba1-a56b-8509b3ef9aeb)
 Figura 2: Sistema Dinamico.
 ## 3. Planta
 Es el punto fisico que perimite que se lleve a cabo un proceso, ademas, pueden ser representado a traves de uno o varios sistemas.
@@ -26,3 +26,7 @@ Una ecucion diferencial es una ecuacion que involucra a las derivadas de una fun
 ### 7.1 Ecuacion diferencial lineal
 Una ecuacion diferencial es lineal cuando su soluciones pueden obtenerse a partir de combinaciones lineales de otras soluciones.
 💡**Ejemplo 1:** $y''+y'-2y=0$
+### 7.2 Ecucacion diferencial no lineal
+Se considera no lineal cuando no cumple con el princio de superposicion.
+## 8. Modelamiento y validacion
+Al aplicar las leyes fisicas a un modelo matematico de un sistema se debe tener en cuenta que hay un nivel de incertidumbre en el resultado final, tambien es nesecario validar el modelo con respecto al sistema fisico comparando la salida del modelo con la salida del modelo fisico.
