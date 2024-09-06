@@ -5,4 +5,5 @@ Un sistema surgen combinaciones que actuan conjuntamente para alcanzar un objeti
 Figura 1: Sistema.
 ## 2. ¿Que es un sistema dinamico?
 Un sistema dinamico es un sistema que la salida depende de una entrada que ya paso.
-
+![descarga](https://github.com/user-attachments/assets/488cec1a-7ca9-4ba1-a56b-8509b3ef9aeb)
+Figura 2: Sistema Dinamico.
