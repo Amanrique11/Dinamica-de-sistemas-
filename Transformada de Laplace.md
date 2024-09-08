@@ -20,14 +20,19 @@ $$\mathcal{L}\{f(t)\}=\int_0^{+\infty} e^{-s t} f(t) d t$$
 Sea f(t) ∈ E. La funcion $g(t)=f(t-\widetilde{T}) u(t-\widetilde{T})$ tambien pertenece a E y se verifica.
 $\mathcal{L}[g(t)] \equiv G(s)=e^{-T s} F(s)$
 ![ecuacion](https://github.com/user-attachments/assets/a43b0964-61cb-4715-9590-31ac21478e3d)
-## 4. Transformada de una funcion
-$\mathcal{L}[f(x)]=F(s)$
-## 5. Transformada de la deriavda
-$\mathcal{L}[f'(x)]=sF(s)-f(0)$
+## 4. Transformadas 
+### 4.1 Transformada de una funcion
+$\mathcal{L}[f(t)]=F(s)$
+### 4.2 Transformada de la deriavda
+$\mathcal{L}[f'(t)]=sF(s)-f(0)$
 
-$\mathcal{L}[f''(x)]=s^{2}F(s)-sf'(0)$
+$\mathcal{L}[f''(t)]=s^{2}F(s)-sf'(0)$
 
-$\mathcal{L}[f^{n}(x)]=s^{n}F(s)-s^{n-1}f(0)-...-sf^{n-1}-f^{n}$
+$\mathcal{L}[f^{n}(t)]=s^{n}F(s)-s^{n-1}f(0)-...-sf^{n-1}-f^{n}$
+### 4.3 Transformada de la integral
+$\mathcal{L}[\int f(t)]=\frac{1}{s}F(s)$
+## 5. Tabla de transformadas
+
 ## Referencias
 1. [https://www.uv.mx/personal/aherrera/files/2014/04/18.-PROPIEDADES-DE-LA-TRANSFORMADA-DE-LAPLACE1.pdf]
 2.(https://caminos.udc.es/info/asignaturas/master_iccp/miccp511/images/Imagenes_complementarios/resumen_laplace.pdf)
