@@ -60,3 +60,5 @@ $-5=A$
   
 ## Referencias
 1. https://solucioningenieril.com/algebra/fracciones_parciales
+
+   2. https://www.uv.mx/personal/aherrera/files/2014/08/51a.-FRACCIONES-PARCIALES.pdf
