@@ -61,7 +61,11 @@ $\frac{d(6x+7)}{dx}=\frac{d(A+B(x+2))}{dx}$
 $6=B$
 
 $\frac{6x+7}{(x+2)^{2}}=-\frac{2}{(x+2)^{2}}+\frac{6}{x+2}$
+### 2.3 Raices Complejas Conjugadas
+Este caso es diferente porque sus raices no pertenece a los realse, esto podemos evidenciar cuando se factoriza por medio de la formula cuadratica tiene sale una la raiz un numero negativo.
 
+La raiz tiene que tener la suma de dos coeficientes donde el primero tiene una incognita, y el denominador se le completa el cuadrado para logar simplifacar la ecuacuion y hacer algebra para llegar a la transformada de seno y coseno.
+## 3. Solcionar 
 
   
 ## Referencias
