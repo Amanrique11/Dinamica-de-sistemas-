@@ -56,6 +56,9 @@ $6(-2)+7=A+B(-2+2)$
 
 $-5=A$
 
+$\frac{d(6x+7)}{dx}=\frac{d(A+B(x+2))}{dx}$
+
+$x=
 
   
 ## Referencias
