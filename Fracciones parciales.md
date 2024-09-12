@@ -58,10 +58,13 @@ $-5=A$
 
 $\frac{d(6x+7)}{dx}=\frac{d(A+B(x+2))}{dx}$
 
-$x=
+$6=B$
+
+$\frac{6x+7}{(x+2)^{2}}=-\frac{2}{(x+2)^{2}}+\frac{6}{x+2}$
+
 
   
 ## Referencias
 1. https://solucioningenieril.com/algebra/fracciones_parciales
-
-   2. https://www.uv.mx/personal/aherrera/files/2014/08/51a.-FRACCIONES-PARCIALES.pdf
+  
+2. https://www.uv.mx/personal/aherrera/files/2014/08/51a.-FRACCIONES-PARCIALES.pdf
