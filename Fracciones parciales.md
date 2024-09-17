@@ -70,9 +70,7 @@ La me todologia es muy facil:
 Priemero debemos aplicar la transfomada de Laplace a toda la ecuacion(termino a termino), de tal manera obtener la ecuacion en el dominio de s.
 Despues despejamos la variable que quiere representar la salida de la ecuacion.
 Y por ultimo aplicar la transfomada inversa de Laplace a la exprecion obtenida para tener la solucion en el dominio el timepo.
-# Ejercicios
 
-  
 ## Referencias
 1. https://solucioningenieril.com/algebra/fracciones_parciales
   
