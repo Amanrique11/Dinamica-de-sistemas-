@@ -65,7 +65,12 @@ $\frac{6x+7}{(x+2)^{2}}=-\frac{2}{(x+2)^{2}}+\frac{6}{x+2}$
 Este caso es diferente porque sus raices no pertenece a los realse, esto podemos evidenciar cuando se factoriza por medio de la formula cuadratica tiene sale una la raiz un numero negativo.
 
 La raiz tiene que tener la suma de dos coeficientes donde el primero tiene una incognita, y el denominador se le completa el cuadrado para logar simplifacar la ecuacuion y hacer algebra para llegar a la transformada de seno y coseno.
-## 3. Solcionar 
+## 3. Solucion de ecuaciones diferenciales 
+La me todologia es muy facil:
+Priemero debemos aplicar la transfomada de Laplace a toda la ecuacion(termino a termino), de tal manera obtener la ecuacion en el dominio de s.
+Despues despejamos la variable que quiere representar la salida de la ecuacion.
+Y por ultimo aplicar la transfomada inversa de Laplace a la exprecion obtenida para tener la solucion en el dominio el timepo.
+# Ejercicios
 
   
 ## Referencias
